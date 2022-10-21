@@ -9,6 +9,8 @@ To access the project follow the link for github pages.
 ##Usage
 To use this website you can look through the different sections. To naviate to a specific section, click one of the links in the navigation bar.
 
+![plot](./Develop/assets/images/finalChallenge1.png)
+
 ##Credits
 https://github.com/coding-boot-camp
 
