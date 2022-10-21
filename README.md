@@ -3,7 +3,7 @@
 ## Description
 I worked on cleaning up the code while also improving the functionality. The motivation for doing this was to better the SEO and to increase accessibliy to the users.
 
-## installation
+## Installation
 To access the project follow the link for github pages.
 
 ## Usage
