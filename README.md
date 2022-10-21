@@ -1,18 +1,18 @@
-#Horiseon Code Refactor
+# Horiseon Code Refactor
 
-##Description
+## Description
 I worked on cleaning up the code while also improving the functionality. The motivation for doing this was to better the SEO and to increase accessibliy to the users.
 
-##installation
+## installation
 To access the project follow the link for github pages.
 
-##Usage
+## Usage
 To use this website you can look through the different sections. To naviate to a specific section, click one of the links in the navigation bar.
 
 ![plot](./Develop/assets/images/finalChallenge1.png)
 
-##Credits
+## Credits
 https://github.com/coding-boot-camp
 
-##License
+## License
 N/A
