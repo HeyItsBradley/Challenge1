@@ -1,9 +1,10 @@
-* {
+/* this will be the universal selecter  */
+*{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* this will effect all body elements */
 body {
     background-color: #d9dcd6;
 }
@@ -50,7 +51,7 @@ p {
     font-size: 16px;
     margin-top: 10px;
 }
-
+/* displays the main image for the page */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* class for the side section, puts in place and formats */
 .benefits {
     margin-right: 20px;
     padding: 20px;
