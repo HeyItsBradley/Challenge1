@@ -5,6 +5,7 @@ I worked on cleaning up the code while also improving the functionality. The mot
 
 ## Installation
 To access the project follow the link for github pages.
+https://heyitsbradley.github.io/Challenge1/
 
 ## Usage
 To use this website you can look through the different sections. To naviate to a specific section, click one of the links in the navigation bar.
